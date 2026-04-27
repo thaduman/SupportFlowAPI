@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\SupportFlowAPI.props" />
-</Project>
